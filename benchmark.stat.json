@@ -1,0 +1,49 @@
+{
+ "env": {
+  "340abfaad45b3cd8056d6b513e52679e6d99d0f3": {
+   "arch": "x64",
+   "platform": "win32",
+   "type": "Windows_NT",
+   "release": "10.0.17134",
+   "cpus": [
+    {
+     "model": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx",
+     "speed": 2495
+    },
+    {
+     "model": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx",
+     "speed": 2495
+    },
+    {
+     "model": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx",
+     "speed": 2495
+    },
+    {
+     "model": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx",
+     "speed": 2495
+    }
+   ],
+   "totalmem": 12519133184
+  }
+ },
+ "items": {
+  "efb2404247b123a382b851a57dfcbee42c534a47": {
+   "tests": {
+    "sum": {
+     "hz": 22128593.612181433,
+     "count": 1735375,
+     "rme": 5.31359819644257,
+     "samples": 62
+    },
+    "indexOf": {
+     "hz": 598215636.2026943,
+     "count": 53323229,
+     "rme": 4.826862970770505,
+     "samples": 63
+    }
+   },
+   "env": "340abfaad45b3cd8056d6b513e52679e6d99d0f3",
+   "timestamp": 1552858622112
+  }
+ }
+}
